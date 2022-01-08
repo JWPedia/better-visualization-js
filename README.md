@@ -35,6 +35,8 @@ let data = {
 
 The above data object is equivalent to the following series of mathematical declarations:
 
+![image](https://user-images.githubusercontent.com/40589365/148622439-e4377717-a0d7-41b5-baeb-a80fa15f7dc5.png)
+
 $$
 a = 1\\
 b = [1, 2, 3]\\
